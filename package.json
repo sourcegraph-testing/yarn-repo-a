@@ -1,6 +1,7 @@
 {
   "name": "yarn-repo-a",
+  "type": "module",
   "dependencies": {
-    "gradient-string": "^2.0.1"
+    "gradient-string": "^3.0.0"
   }
 }

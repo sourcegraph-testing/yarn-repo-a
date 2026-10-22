@@ -1,3 +1,3 @@
-const gradient = require('gradient-string');
+import gradient from 'gradient-string';
 
-console.log(gradient('cyan', 'pink')('Hello world!'));
+console.log(gradient(['cyan', 'pink'])('Hello world!'));
